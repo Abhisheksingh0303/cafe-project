@@ -1,6 +1,6 @@
 # Cafe Management System
 
-![Cafe Management System Logo](cafe-logo.png)
+![Cafe Management System Logo](logo.png)
 
 Cafe Management System is a comprehensive software solution designed for coffee shops to efficiently manage orders and overall cafe operations. This system is built using a stack of technologies to ensure a seamless and user-friendly experience.
 
