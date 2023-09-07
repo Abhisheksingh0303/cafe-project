@@ -34,41 +34,14 @@ Cafe Management System is a comprehensive software solution designed for coffee 
 
    Install XAMPP and set up a MySQL database.
 
-Import the provided database schema (cafe_db.sql) into your MySQL database.
 
-Configure the database connection in the PHP files where necessary.
-
-Start the XAMPP server and open the project in your web browser.
-
-You're ready to use the Cafe Management System!
-
-Usage
-Log in as an administrator to access the admin panel and configure cafe settings.
-
-Employees can log in to take and manage orders, view reservations, and more.
-
-Customers can use the system to place orders and make reservations.
-
-Contributing
-If you'd like to contribute to the development of the Cafe Management System, please follow these steps:
-
-Fork the repository on GitHub.
-
-Create a new branch for your feature or bug fix.
-
-Make your changes and commit them with descriptive commit messages.
-
-Push your changes to your fork.
-
-Create a pull request to merge your changes into the main repository.
-
-License
+# License
 This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
-Acknowledgments
+# Acknowledgments
 We would like to thank the open-source community and all contributors for their support in developing this Cafe Management System.
 
-Enjoy managing your cafe efficiently with our software!
+# Enjoy managing your cafe efficiently with our software!
 
-For any questions or issues, please contact Abhishek Singh.
+# For any questions or issues, please contact Abhishek Singh.
 
